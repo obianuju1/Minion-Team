@@ -1,0 +1,43 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+.SideBar{
+  height: 100%;
+  width: 12%;
+  position: fixed;
+  font-size: larger;
+  font-weight: bolder;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #101010;
+  padding: 15px 10px;
+  display: flex;
+  flex-direction: column;
+ 
+  text-decoration: none;
+}
+.MainPage{
+  margin-left: 100px;
+  
+}
+body {
+  background-color: #202020;
+  color:white;
+}
+.link{
+  text-shadow: 0 0 32x white; 
+	color: white; 
+}
+.image{
+  position: fixed;
+  bottom: 0;
+  width: 30px;
+  text-align: left; /* Center the image if needed */
+}
