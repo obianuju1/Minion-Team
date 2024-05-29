@@ -17,15 +17,7 @@ The following **required** functionality is completed:
 - [x] **A previously created crewmate can be deleted from the crewmate list**
 - [x] **Each crewmate has a direct, unique link to an info page about them**
 
-The following **optional** features are implemented:
 
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
-- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
